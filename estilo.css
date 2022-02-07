@@ -1,0 +1,109 @@
+
+body {
+    background-color: rgb(247, 247, 247);
+}
+
+.navbar {
+    background-color: #141414;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: gray;
+}
+
+.img {
+    width: 55px;
+    height: 55px;
+}
+
+.fondo {
+    width: 100%;
+}
+
+.section {
+    width: 800px;
+    height: 300px;
+    margin: auto;
+}
+
+h1 {
+    margin-top: 40px;
+    font-weight: 700;
+}
+
+p {
+    color: rgb(33, 33, 33);
+    text-align: left;
+    margin-top: 20px;
+}
+
+.watches {
+    width: 300px;
+    height: 350px;
+    cursor: pointer;
+}
+
+.iconos {
+    margin-right: 15px;
+}
+
+.imagns {
+    height: 500px;
+    width: 500px;
+    margin: auto;
+}
+
+.section2 {
+    width: 125vh;
+    height: 200px;
+    margin: auto;
+}
+
+h3 {
+    margin-top: 35px;
+    font-weight: 700;
+    padding: 5px;
+}
+
+h2 {
+    margin-top: 35px;
+    font-weight: 700;
+}
+
+.articulos {
+    width: 125vh;
+    height: 325px;
+    margin: auto;
+}
+
+.tituloa {
+    width: 100vh;
+    margin-top: 150px;
+    font-size: 14px;
+    font-family: sans-serif;
+}
+
+.imagn {
+    width: 125vh;
+    height: 100%;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.imagn:hover {
+    width: 130vh;
+    height: 360px;
+}
+
+.formulario {
+    margin: 10px;
+    padding: 20px;
+}
+
+.card1 {
+    cursor: pointer;
+}
